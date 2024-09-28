@@ -1,0 +1,55 @@
+::-webkit-scrollbar {
+    width: 0;
+}
+
+html {
+    font-size: 16px !important;
+    min-height: 100vh;
+    body {
+        background-color: #f2f2f2;
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        header {
+            min-height: 100vh;
+            margin: 0;
+            background-image: url("./assets/04.jpg") !important;
+            background-size: cover !important; 
+            background-position: center !important;
+        }
+    }
+}
+.bg-blur {
+    backdrop-filter: blur(40px);
+}
+
+.bg-accent {
+    background-color: #1d4874 !important;
+}
+
+.accent {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.w-max {
+    width: max-content !important;
+}
+.headerBreak {
+    background-image: linear-gradient(transparent, #17191c);
+}
+.readability {
+    line-height: 2rem;
+}
+.no-string-break {
+    text-wrap: nowrap;
+}
+.textc-black {
+    color: #0b0b0b !important;
+}
+.textc-accent {
+    color: #1d4874 !important;
+}
+.bgc-black {
+    background-color: #0b0b0b !important;
+}
