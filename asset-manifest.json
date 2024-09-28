@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7d38ff7.css",
+    "main.js": "/static/js/main.bb5eb5cf.js",
+    "static/js/453.77e75d47.chunk.js": "/static/js/453.77e75d47.chunk.js",
+    "static/media/IL_TASTO_GIUSTO_Caterina_Vivarelli.pdf": "/static/media/IL_TASTO_GIUSTO_Caterina_Vivarelli.bda54e18afc9d6544b47.pdf",
+    "static/media/Pianoforte_Caterina_Vivarelli1.jpg": "/static/media/Pianoforte_Caterina_Vivarelli1.69b94bf7591b8f4e78eb.jpg",
+    "static/media/04.jpg": "/static/media/04.64ac600decb6004bd97b.jpg",
+    "static/media/Lezioni_Pianoforte1.png": "/static/media/Lezioni_Pianoforte1.3c1116a44a07b7517781.png",
+    "static/media/Caterina_Vivarelli_pianista.png": "/static/media/Caterina_Vivarelli_pianista.6e614a1d650313e4b9c2.png",
+    "static/media/Caterina_Vivarelli_Concerto1.png": "/static/media/Caterina_Vivarelli_Concerto1.e49eadc6a87d21c3bc81.png",
+    "index.html": "/index.html",
+    "main.e7d38ff7.css.map": "/static/css/main.e7d38ff7.css.map",
+    "main.bb5eb5cf.js.map": "/static/js/main.bb5eb5cf.js.map",
+    "453.77e75d47.chunk.js.map": "/static/js/453.77e75d47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d38ff7.css",
+    "static/js/main.bb5eb5cf.js"
+  ]
+}
