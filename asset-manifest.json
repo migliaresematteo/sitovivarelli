@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8217ee25.css",
-    "main.js": "/static/js/main.70d66d36.js",
+    "main.js": "/static/js/main.e0efdfeb.js",
     "static/js/453.77e75d47.chunk.js": "/static/js/453.77e75d47.chunk.js",
     "static/media/07-Ravel-Sonata_Postuma.mp3": "/static/media/07-Ravel-Sonata_Postuma.417f0ea3f045adc18bfe.mp3",
     "static/media/04-Brahms_Sonata_Opera_78-1.mp3": "/static/media/04-Brahms_Sonata_Opera_78-1.386bc6f270adc13b273f.mp3",
@@ -11,7 +11,6 @@
     "static/media/03-C.Schumann-Opera_22.mp3": "/static/media/03-C.Schumann-Opera_22.f651bec1ad74c7c37022.mp3",
     "static/media/10-Debussy_Sonata_3.mp3": "/static/media/10-Debussy_Sonata_3.9152bf1a325dedf354c5.mp3",
     "static/media/09-Debussy_Sonata_2.mp3": "/static/media/09-Debussy_Sonata_2.d842cfb6dade83c695d0.mp3",
-    "static/media/11-Ravel_Sonata_in_Sol_3.mp3": "/static/media/11-Ravel_Sonata_in_Sol_3.0d8d0436a7ff3d35e581.mp3",
     "static/media/02-C.Schumann-Opera_22.mp3": "/static/media/02-C.Schumann-Opera_22.29d6431e2cb4829dc4f4.mp3",
     "static/media/01-C.Schumann-Opera_22.mp3": "/static/media/01-C.Schumann-Opera_22.3775bd750c67f08d47ad.mp3",
     "static/media/IL_TASTO_GIUSTO_Caterina_Vivarelli.pdf": "/static/media/IL_TASTO_GIUSTO_Caterina_Vivarelli.bda54e18afc9d6544b47.pdf",
@@ -23,11 +22,11 @@
     "static/media/01m.jpg": "/static/media/01m.71e2132483a28563ad55.jpg",
     "index.html": "/index.html",
     "main.8217ee25.css.map": "/static/css/main.8217ee25.css.map",
-    "main.70d66d36.js.map": "/static/js/main.70d66d36.js.map",
+    "main.e0efdfeb.js.map": "/static/js/main.e0efdfeb.js.map",
     "453.77e75d47.chunk.js.map": "/static/js/453.77e75d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8217ee25.css",
-    "static/js/main.70d66d36.js"
+    "static/js/main.e0efdfeb.js"
   ]
 }
