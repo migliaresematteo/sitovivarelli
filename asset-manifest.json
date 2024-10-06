@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8217ee25.css",
-    "main.js": "/static/js/main.5bd2d11b.js",
+    "main.js": "/static/js/main.38941108.js",
     "static/js/453.77e75d47.chunk.js": "/static/js/453.77e75d47.chunk.js",
     "static/media/07-Ravel-Sonata_Postuma.mp3": "/static/media/07-Ravel-Sonata_Postuma.417f0ea3f045adc18bfe.mp3",
     "static/media/04-Brahms_Sonata_Opera_78-1.mp3": "/static/media/04-Brahms_Sonata_Opera_78-1.386bc6f270adc13b273f.mp3",
@@ -14,8 +14,10 @@
     "static/media/02-C.Schumann-Opera_22.mp3": "/static/media/02-C.Schumann-Opera_22.29d6431e2cb4829dc4f4.mp3",
     "static/media/01-C.Schumann-Opera_22.mp3": "/static/media/01-C.Schumann-Opera_22.3775bd750c67f08d47ad.mp3",
     "static/media/IL_TASTO_GIUSTO_Caterina_Vivarelli.pdf": "/static/media/IL_TASTO_GIUSTO_Caterina_Vivarelli.bda54e18afc9d6544b47.pdf",
+    "static/media/THE_RIGHT_KEY_Caterina_Vivarelli.pdf": "/static/media/THE_RIGHT_KEY_Caterina_Vivarelli.02cbb8d58dbdcc3daa49.pdf",
     "static/media/Pianoforte_Caterina_Vivarelli1.jpg": "/static/media/Pianoforte_Caterina_Vivarelli1.69b94bf7591b8f4e78eb.jpg",
     "static/media/01.jpg": "/static/media/01.4f0fe679c4fdbe9df0d3.jpg",
+    "static/media/THE_RIGHT_KEY_pdf (1)_page-0001.jpg": "/static/media/THE_RIGHT_KEY_pdf (1)_page-0001.70d5d89a0a206cb4089c.jpg",
     "static/media/Lezioni_Pianoforte1.png": "/static/media/Lezioni_Pianoforte1.3c1116a44a07b7517781.png",
     "static/media/Caterina_Vivarelli_pianista.png": "/static/media/Caterina_Vivarelli_pianista.6e614a1d650313e4b9c2.png",
     "static/media/Caterina_Vivarelli_Concerto1.png": "/static/media/Caterina_Vivarelli_Concerto1.e49eadc6a87d21c3bc81.png",
@@ -24,11 +26,11 @@
     "static/media/1f1ee-1f1f9.svg": "/static/media/1f1ee-1f1f9.0f445fbad16c9c5da229617c98c65bac.svg",
     "index.html": "/index.html",
     "main.8217ee25.css.map": "/static/css/main.8217ee25.css.map",
-    "main.5bd2d11b.js.map": "/static/js/main.5bd2d11b.js.map",
+    "main.38941108.js.map": "/static/js/main.38941108.js.map",
     "453.77e75d47.chunk.js.map": "/static/js/453.77e75d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8217ee25.css",
-    "static/js/main.5bd2d11b.js"
+    "static/js/main.38941108.js"
   ]
 }
