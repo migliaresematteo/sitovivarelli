@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bad10618.css",
-    "main.js": "/static/js/main.3ba3174b.js",
+    "main.js": "/static/js/main.2f0f06af.js",
     "static/js/453.77e75d47.chunk.js": "/static/js/453.77e75d47.chunk.js",
     "static/media/07-Ravel-Sonata_Postuma.mp3": "/static/media/07-Ravel-Sonata_Postuma.417f0ea3f045adc18bfe.mp3",
     "static/media/04-Brahms_Sonata_Opera_78-1.mp3": "/static/media/04-Brahms_Sonata_Opera_78-1.386bc6f270adc13b273f.mp3",
@@ -30,11 +30,11 @@
     "static/media/1f1ee-1f1f9.svg": "/static/media/1f1ee-1f1f9.0f445fbad16c9c5da229617c98c65bac.svg",
     "index.html": "/index.html",
     "main.bad10618.css.map": "/static/css/main.bad10618.css.map",
-    "main.3ba3174b.js.map": "/static/js/main.3ba3174b.js.map",
+    "main.2f0f06af.js.map": "/static/js/main.2f0f06af.js.map",
     "453.77e75d47.chunk.js.map": "/static/js/453.77e75d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bad10618.css",
-    "static/js/main.3ba3174b.js"
+    "static/js/main.2f0f06af.js"
   ]
 }
